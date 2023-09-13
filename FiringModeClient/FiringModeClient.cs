@@ -36,6 +36,7 @@ namespace FiringModeClient
             "WEAPON_SPECIALCARBINE",
             "WEAPON_BULLPUPRIFLE",
             "WEAPON_COMPACTRIFLE",
+            "WEAPON_APPISTOL",            
         };
         #endregion
 
